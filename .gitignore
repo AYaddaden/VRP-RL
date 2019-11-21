@@ -15,3 +15,7 @@
 *.synctex
 *.synctex.gz
 *.synctex.gz(busy)
+
+logs/*
+.idea/*
+venv/*
